@@ -1,11 +1,10 @@
 # ICRA 2024 Autonomous Driving Planning Paper List
-This repo contains a list of all the autonomous driving planning papers being presented at ICRA2024. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
 
-There is also a google sheets version with abstracts here
-
-All papers of ICRA 2024 can be downloaded from here.
+A list of papers on path planning from the 2024 ICRA conference has been compiled, and open-source code will be updated gradually. If you’re interested, please star the repository to stay updated.
+列表整理了2024 ICRA会议有关路径规划方向的论文，并且会逐步更新开源代码，需要的可以点个srar持续关注
 
 Note: This list is likely not a perfect list there might be papers missed.
+注意：这个列表可能不完全，可能会遗漏一些论文
 
 
 | Paper Title                                                   | Authors                                                                                     | Session                           | Github code                    |
